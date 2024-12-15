@@ -1,0 +1,38 @@
+[
+  {
+    "appname": "Space Invaders",
+    "appversion": "1.0.0",
+    "appcategory": "Arcade",
+    "appdeveloper": "Galaxy Games",
+    "screenshotslinks": [
+      "https://example.com/screenshots/space_invaders_1.png",
+      "https://example.com/screenshots/space_invaders_2.png"
+    ],
+    "appicon": "https://example.com/icons/space_invaders.png",
+    "executablepath": "C:\\Games\\SpaceInvaders\\SpaceInvaders.exe"
+  },
+  {
+    "appname": "Chess Master",
+    "appversion": "2.5.1",
+    "appcategory": "Strategy",
+    "appdeveloper": "Board Kings",
+    "screenshotslinks": [
+      "https://example.com/screenshots/chess_master_1.png",
+      "https://example.com/screenshots/chess_master_2.png"
+    ],
+    "appicon": "https://example.com/icons/chess_master.png",
+    "executablepath": "C:\\Games\\ChessMaster\\ChessMaster.exe"
+  },
+  {
+    "appname": "Racing Rivals",
+    "appversion": "3.0.2",
+    "appcategory": "Racing",
+    "appdeveloper": "Speed Studios",
+    "screenshotslinks": [
+      "https://example.com/screenshots/racing_rivals_1.png",
+      "https://example.com/screenshots/racing_rivals_2.png"
+    ],
+    "appicon": "https://example.com/icons/racing_rivals.png",
+    "executablepath": "C:\\Games\\RacingRivals\\RacingRivals.exe"
+  }
+]
